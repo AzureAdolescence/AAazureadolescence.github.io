@@ -5,6 +5,7 @@ tags: First-Try
 stickie: true
 ---
 
-Welcome to my blog!<br>This is my first bolg. And it may not perfect.<br>But this is the first step to success!
+Welcome to my blog!
+This is my first bolg. And it may not perfect.<br>But this is the first step to success!
 
 > First Success!
