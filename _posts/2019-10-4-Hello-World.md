@@ -9,7 +9,7 @@ Welcome to my blog!<br>This is my first bolg. <br>And it may not perfect.<br>But
 
 <br>Here is the code test:
 
-{% highlight c++ %} #include <iostream>
+{% highlight c++ %}#include <iostream>
 using namespace std;
 
 int main()
@@ -17,7 +17,7 @@ int main()
   cout<<"Hello world!"<<endl;
   
   return 0;
- }
+}
 {% endhighlight %}
 
 > First Success!
