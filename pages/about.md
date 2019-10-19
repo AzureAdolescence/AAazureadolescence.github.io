@@ -10,7 +10,7 @@ permalink: /about.html
 
 你可以通过以下方式联系作者
 
-QQ: 2050176808
+QQ: [2050176808](http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes)
 
 Email: <a ref="mailto:MansonZhou@outlook.com">MansonZhou@outlook.com</a>
 
