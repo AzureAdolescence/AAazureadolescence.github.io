@@ -1,12 +1,8 @@
-- name: Link
-  image: https://atlinker.cn/avatar/avatar.png
-  url: https://atlinker.cn/
-  describe: Link's Blog
 
-- name: Daily
-  image: https://atlinker.cn/avatar/default.png
-  url: https：//linker.ml/daily/
-  describe: Daily
+- name: Sui Zhenghao
+  image: https://azureadolescence.github.io/avatar/default.png
+  url: https://www.luogu.org/blog/MRPlanck/
+  describe: Friend.
 
 # - name: Links Name
 #  image: http://example.com/img.png
