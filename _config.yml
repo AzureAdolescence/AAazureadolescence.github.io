@@ -4,7 +4,7 @@ keywords: blog,css,html,php #博客关键字
 author: "AzureAdolescence"
 
 #title hide and show
-hide: AzureAdolescence的博客
+hide: 
 show: AzureAdolescence的博客
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
