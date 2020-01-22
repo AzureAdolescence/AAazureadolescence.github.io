@@ -12,6 +12,6 @@ permalink: /about.html
 
 QQ: [2050176808](http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes)
 
-Email: <a ref="mailto:MansonZhou@outlook.com">MansonZhou@outlook.com</a>
+Email: [MansonZhou@outlook.com](mailto: mansonzhou@outlok.com)
 
 Github: [AzureAdolescence](https://github.com/AzureAdolescence)
