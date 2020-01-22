@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 链接
-tagline: My friends（现在只是实验，这里的链接没有用，大家不要在意）.
+tagline: My friends.
 permalink: /links.html
 ---
 
